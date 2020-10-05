@@ -1,13 +1,14 @@
 {
-  "name": "RainbomSea",
-  "short_name": "RainbomSea",
-  "description": "就算这样, 也要笑着去努力啊",
+  "name": "Wii",
+  "short_name": "Wii",
+  "description": "即使艰难，也还要做；愈艰难，就愈要做。改革，是向来没有一帆风顺的，冷笑家的赞
+成，是在见了成功之后……",
   "icons": [{
-    "src": "icons/pwa_icon_64.ico",
+    "src": "icons/w.ico",
     "sizes": "64x64",
     "type": "image/ico"
   }, {
-    "src": "icons/pwa_icon_128.ico",
+    "src": "icons/w.ico",
     "sizes": "128x128",
     "type": "image/ico"
   }],
