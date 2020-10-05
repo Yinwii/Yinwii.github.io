@@ -1,8 +1,8 @@
 # Site settings | 网站设置
 title: Wii
-SEOTitle: Wii的博客 | RaimbomSea
-header-img: img/home-bg-he.png
-email: Wii@qq.com
+SEOTitle: Wii的博客 | Wii
+header-img: img/home.jpg
+email: yinwii@qq.com
 description: "Wii的博客"
 keyword: "Wii, Wii的博客"
 url: "https://yinwii.github.io/"          # your host, for absolute URL
@@ -12,7 +12,7 @@ github_repo: "https://github.com/Yinwii/Yinwii.github.io" #code repository | 代
 
 # Sidebar settings | 侧边栏设置
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "就算这样,也要笑着去努力啊!"
+sidebar-about-description: "春夏之交，散行麦野；秋冬之际，微醉稻场。欣看麦浪之翻银，称翠直侵衣带；快睹稻香之覆地，新醅欲溢尊罍。每来得趣于庄村，宁去置身于草野。"
 sidebar-avatar: /img/view.jpg      # 头像
 
 
@@ -60,7 +60,7 @@ gitalk:
   enable: true    # 是否开启Gitalk评论
   clientID: 99ecf1fdc9b7e357ebb7                            #生成的clientID
   clientSecret: 2670daea0c10372dd0296c371edc5ee4e73db43f    #生成的clientSecret
-  repo: Wii.github.io    #仓库名称
+  repo: yinwii.github.io    #仓库名称
   owner: Wii    # github用户名
   admin: Wii
   distractionFreeMode: true # 是否启用类似FB的阴影遮罩
@@ -89,6 +89,6 @@ service-worker: true
 friends: [
     {
         title: "GitHub·Wii",
-        href: "http://Wii.github.io"
+        href: "http://yinwii.github.io"
     }
 ]
