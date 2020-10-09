@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # 关闭Windows休眠、怎么删除hiberfil.sys占用空间
 版权声明：本文为转载文章。
